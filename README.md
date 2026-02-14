@@ -25,10 +25,10 @@ and manageable sequence.
 
 <p><strong>📋 Responsibilities</strong></p>
 <ul>
-  <li>🧩 Broke the system into modules (authentication, interests, feed, messaging, admin panel)</li>
-  <li>👨‍💻 Assigned tasks to front-end, back-end, and documentation team members</li>
-  <li>📆 Set internal deadlines and monitored task completion</li>
-  <li>🔄 Adjusted timelines when technical challenges arose</li>
+  <li>Broke the system into modules (authentication, interests, feed, messaging, admin panel)</li>
+  <li>Assigned tasks to front-end, back-end, and documentation team members</li>
+  <li>Set internal deadlines and monitored task completion</li>
+  <li>Adjusted timelines when technical challenges arose</li>
 </ul>
 
 <hr/>
@@ -44,10 +44,10 @@ the project lifecycle.
 
 <p><strong>📋 Responsibilities</strong></p>
 <ul>
-  <li>💬 Ran team check-ins and progress discussions</li>
-  <li>✅ Ensured all members understood their tasks</li>
-  <li>🛠️ Addressed conflicts or delays constructively</li>
-  <li>🔗 Coordinated handovers between front-end and back-end work</li>
+  <li>Ran team check-ins and progress discussions</li>
+  <li>Ensured all members understood their tasks</li>
+  <li>Addressed conflicts or delays constructively</li>
+  <li>Coordinated handovers between front-end and back-end work</li>
 </ul>
 
 <hr/>
@@ -63,10 +63,10 @@ project was completed on time.
 
 <p><strong>📋 Responsibilities</strong></p>
 <ul>
-  <li>📌 Tracked completed vs pending features</li>
-  <li>⚠️ Identified risks early (e.g., feature complexity, testing delays)</li>
-  <li>🎯 Prioritized core functionality over non-essential features</li>
-  <li>🧪 Ensured system stability before submission</li>
+  <li>Tracked completed vs pending features</li>
+  <li>Identified risks early (e.g., feature complexity, testing delays)</li>
+  <li>Prioritized core functionality over non-essential features</li>
+  <li> Ensured system stability before submission</li>
 </ul>
 
 <hr/>
@@ -82,13 +82,13 @@ and an admin dashboard.
 
 <p><strong>✨ Key Outcomes</strong></p>
 <ul>
-  <li>👩‍🎓 Fully functional student and admin interfaces</li>
-  <li>🧠 Interest-based content feeds</li>
-  <li>🚨 User reporting and moderation</li>
-  <li>📄 Clear documentation and user guidance</li>
+  <li>Fully functional student and admin interfaces</li>
+  <li>Interest-based content feeds</li>
+  <li> User reporting and moderation</li>
+  <li>Clear documentation and user guidance</li>
 </ul>
 
-<p><strong> Demostration </strong></p>
+<p><strong> 🖥️ Demostration  </strong></p>
 <br>
 <p align="center">
   <img src="https://i.imgur.com/btn3dQi.png" height="40%" width="40%" alt="CampusConnect"/>
