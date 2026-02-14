@@ -87,3 +87,16 @@ and an admin dashboard.
   <li>🚨 User reporting and moderation</li>
   <li>📄 Clear documentation and user guidance</li>
 </ul>
+
+<p><strong> Demostration </strong></p>
+<br>
+<p align="center">
+  <img src="https://i.imgur.com/btn3dQi.png" height="40%" width="40%" alt="CampusConnect"/>
+  <img src ="https://i.imgur.com/Ty9Mfrm.png" height="19%" width="19%" alt="CampusConnect"/>
+</p>
+
+<br>
+<p align = "center">
+<img src ="https://i.imgur.com/LHbZeR4.png" height="40%" width="40%" alt="CampusConnect"/>
+<img src="https://i.imgur.com/dmdrAjW.png" height="40%" width="40%" alt="CampusConnect"/>
+</p>
